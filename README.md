@@ -32,7 +32,6 @@ Implementa um CRUD completo com banco de dados H2 em memória.
 3. Aguarde o Maven baixar as dependências
 4. Execute a classe `Checkpoint2Application.java`
 5. A API estará disponível em: `http://localhost:8085`
-6. Console H2: `http://localhost:8085/h2-console`
 
 ---
 
