@@ -68,3 +68,15 @@ Implementa um CRUD completo com banco de dados H2 em memória.
 - H2 Database
 - Lombok
 - Validation
+
+---
+
+## 📷 Prints
+
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/3bfccf85-d928-4a5f-9976-837397c66e19" />
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/eb5a61ad-158b-4785-9dec-5d1133845e71" />
+<img width="1915" height="1019" alt="image" src="https://github.com/user-attachments/assets/ee1388aa-ecc3-4f82-8023-ab135aa3b4ec" />
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/8f4c76ef-682a-470a-ab01-25916f660ce9" />
+<img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/2d56d2bc-2807-446e-96d5-6c0db4656ec6" />
+
+
